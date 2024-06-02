@@ -1,0 +1,71 @@
+
+{
+    "banner" :{
+        "title" : "Bagh Homeo Clinic",
+        "subtitle":"We better cure of you",
+        "description":"BAGH Homeo Clinic is a Center of Excellency in Homeopathy. This clinic has been established in Jan 2002, under the supervision of Dr. Guftiar Ahmed Homeo Physician. The clinic offers its expertise in the fields of Joint Pains and Sciatica, Gastro Intestinal and Abdominal Diseases, Skin Diseases, Male Reproductive Diseases and infertility, Female Reproductive Diseases and Infertility, Kidney and Urinary tract Diseases including Stones, Respiratory Diseases and Growth Disturbances etc",
+        "image":"/assets/images/owner.png"
+    },
+
+    "offers": [
+        {
+            "id": "1",
+            "name": "Bone & Joints Diseases",
+            "description": "BAGH Homoeo Clinic under the supervision of Dr. Guftiar Ahmed invites patients with the following Bone and Joints diseases. Dr. Guftiar Ahmed and his team of doctors and paramedics give special attention to each of their patient individually with the aim and attention on proper diagnosis and curable treatment:",
+            "image": "/assets/images/owner.png",
+            "show": true
+        },
+        {
+            "id": "2",
+            "name": "Skin Diseases",
+            "description": "BAGH Homoeo Clinic under the supervision of Dr. Guftiar Ahmed invites patients with the following Skin diseases. Dr. Guftiar Ahmed and his team of doctors and paramedics give special attention to each of their patient individually with the aim and attention on proper diagnosis and curable treatment:",
+            "image": "/assets/images/owner.png",
+            "show": false
+        },
+        {
+            "id": "3",
+            "name": "Respiratory Diseases",
+            "description": "BAGH Homoeo Clinic under the supervision of Dr. Guftiar Ahmed invites patients with the following Respiratory diseases. Dr. Guftiar Ahmed and his team of doctors and paramedics give special attention to each of their patient individually with the aim and attention on proper diagnosis and curable treatment:",
+            "image": "/assets/images/admin.png",
+            "show": true
+        },
+        {
+            "id": "4",
+            "name": "Respiratory Diseases",
+            "description": "BAGH Homoeo Clinic under the supervision of Dr. Guftiar Ahmed invites patients with the following Respiratory diseases. Dr. Guftiar Ahmed and his team of doctors and paramedics give special attention to each of their patient individually with the aim and attention on proper diagnosis and curable treatment:",
+            "image": "/images/admin.png",
+            "show": true
+        },
+        {
+            "id": "4",
+            "name": "Respiratory Diseases",
+            "description": "BAGH Homoeo Clinic under the supervision of Dr. Guftiar Ahmed invites patients with the following Respiratory diseases. Dr. Guftiar Ahmed and his team of doctors and paramedics give special attention to each of their patient individually with the aim and attention on proper diagnosis and curable treatment:",
+            "image": "/images/admin.png",
+            "show": true
+        }
+    ],
+    "about": {
+        "name":"Dr Guftiar Ahmed",
+        "qualification":"MSc (Women Studies), BHMS (University Of Peshawar), DHMS (NCH Islamabad), UTC (Utrasound) (NCH Islamabad)",
+        "short_description":"Dr. Guftiar Ahmed, a renowned homeopathic doctor with 18 years of clinical experience, completed his DHMS from Abbott Homoeopathic Medical College in 2001 and BHMS from Frontier Homoeopathic Medical College in 2006. He further obtained ultrasound training from Zia Shaheed Homoeopathic Medical College in 2017. Dr. Ahmed is a member of the Examining Body of the National Council for Homeopathy, an Assistant Professor at Abbott Homeopathic Medical College, and a key member of Sir Dr. Ali Muhammad's expert team. He has authored the book “Aasan ECG,” numerous articles, and has published research in international journals.",
+        "description":"Dr. Guftiar Ahmed is a renowned Homeopathic Doctor  having clinical experience of 18 years. Has completed his basic Homoeopathic Medical qualification (DHMS) from Abbott Homoeopathic Medical College Abbottabad in the year 2001. Has been graduated (BHMS) from Frontier Homoeopathic Medical College Peshawar, affiliated with University Of Peshawar,  in the year 2006. Completed Utrasound Training Cource from Zia Shaheed Homoeopathic Medical College Hasilpur, affiliated with National Council for Homoeopathy Govt. of Pakistan in 2017. Presently Dr. Guftiar Ahmed is the Member of Examining Body, National Council for Homeopathy  Govt. of Pakistan. He is Assistant Professor at Abbott Homeopathic Medical College, Abbottabad in faculty of  BHMS, affiliated with Khyber Medical University Peshawar. He is a proud part of Sir. Dr. Ali Muhammad’s team of experts and mastered in Homoeopathic therapeutics from Sir. Dr. Ali Muhammad. Dr. Guftiar Ahmed has a rich experience of medical teaching and writing, Conduct Lectures to educate people about Homoeopathy in different  institutions and seminars. Written a book  “Aasan ECG” and many articles, published in leading magazines of Pakistan. His research article has been published in international science journal as well.",
+        "image":"/assets/images/about.png"
+
+
+    },
+    "clinic":{
+        "name":"BAGH Homoeo Clinic",
+        "description":"BAGH Homeo Clinic is a Center of Excellency in Homeopathy. This clinic has been established in Jan 2002, under the supervision of Dr. Guftiar Ahmed Homeo Physician. The clinic offers its expertise in the fields of Joint Pains and Sciatica, Gastro Intestinal and Abdominal Diseases, Skin Diseases,  Male Reproductive Diseases and infertility, Female Reproductive Diseases and Infertility, Kidney and Urinary tract Diseases including Stones, Respiratory Diseases and Growth Disturbances etc. The clinic is registered with National Council for Homeopathy, Government of Pakistan and Health Care Commission, Khyber Pakhtunkhwa, Peshawar. A team of well qualified doctors, lady doctors and paramedics is always ready to look after and treat there patients with enthusiastic and missionary zeal. The following facilities are available in this clinic",
+        "services":["Male O.P.D","Female O.P.D","Consultant expertise","Clinical Laboratory","Ultrasonography (U.S.G)","Standardized Pharmacy"]
+    },
+    "addresses": {
+        "phone":"0300-5636053",
+        "phone2":"0300-5636053",
+        "location":"Shergarh Road Jalal Abad Chok",
+        "location2":"Oghi Mansehra",
+        "time": "Saturday - Thursday: 10 am - 8 pm",
+        "time2":"Friday Off"
+
+    }
+
+}

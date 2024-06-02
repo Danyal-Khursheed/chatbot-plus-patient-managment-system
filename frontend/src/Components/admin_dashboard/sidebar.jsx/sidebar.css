@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    background-color: #cfdfff;
+    position: fixed;
+    width: 18%;
+    z-index: 5;
+    
+
+}
+.sidebar-heading{
+    color: #30416b;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'FAMILY_NAME';
+    font-style: NORMAL_OR_ITALIC;
+    font-weight: NUMERIC_WEIGHT_VALUE;
+    font-display: swap;
+    
+    src: url(FONT_FILE_NAME.woff2) format('woff2');
+}
+.sidebar-heading:hover{
+    background-color:#cfdfff !important;
+    color: #020d29;
+
+}
+.sidebar-heading:focus,.sidebar-heading:active {
+    background-color:#cfdfff !important;
+    color: #020d29;
+
+}
+
+.main-logo{
+    width: 100%;
+    margin-left: -10px;
+}
+/* mobile responsive */
+
+.mobile-main-logo{
+    width: 110%;
+    
+    
+}
+.max-width-limit{
+    width: 15%;
+    margin-left: 0%;
+    
+    
+}
+.mobile-sidebar-heading{
+    color: #30416b;
+    font-size: 150%;
+    font-weight: 600;
+}
+.mobile-background{
+    background-color: #cfdfff;
+    position: fixed;
+    width: 15%;
+}

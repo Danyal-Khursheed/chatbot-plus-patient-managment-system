@@ -1,0 +1,38 @@
+.title {
+    font-family: "Space Mono", monospace;
+    font-size: 7rem !important;
+    text-align: left !important;
+
+}
+.button{
+    background: rgb(108, 187, 251);
+    color: white;
+    /* margin-left: 1rem; */
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+
+}
+.button:hover {
+    transition: 0.2s ease-in-out;
+    background: rgb(73, 166, 243);
+    color: white;
+    
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+
+  }
+  
+
+  .image{
+    
+    width: 45rem;
+    object-fit: cover;
+  }
+  @media (max-width: 767px) {
+  .about-image{
+display: none;
+  }
+}
+
+
+

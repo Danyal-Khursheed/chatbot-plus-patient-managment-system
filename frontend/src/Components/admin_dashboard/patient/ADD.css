@@ -1,0 +1,63 @@
+.container-add-new {
+    max-width: 100%; /* Increased width */
+    padding: 50px;
+    
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #9bd3eb;
+   
+    
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+/* Each row contains two inputs */
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+textarea {
+    width: calc(50% - 10px); /* Adjusted width to fit two inputs per row */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+/* Add styles for the date picker */
+.date-picker-wrapper {
+    width: calc(50% - 10px); /* Adjust width as needed */
+    position: relative; /* Ensure proper positioning */
+  }
+  
+  .date-picker {
+    width: 100%; /* Set width to fill the container */
+    padding: 10px; /* Add padding */
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 5px; /* Add border radius */
+    background-color: #fff; /* Set background color */
+    box-sizing: border-box; /* Ensure padding is included in width calculation */
+  }
+  
+  /* You can add more styles as needed */
+  
